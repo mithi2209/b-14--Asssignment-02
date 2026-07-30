@@ -1,5 +1,4 @@
 // Problem 1 — Match Winner
-
 function matchWinner(teamAGoals, teamBGoals) {
   
     if(typeof teamAGoals !== "number" || typeof teamBGoals !== "number"){
@@ -20,5 +19,5 @@ function matchWinner(teamAGoals, teamBGoals) {
     
 }
 
-let winner = matchWinner(7,7);
-console.log(winner) ;
+// let winner = matchWinner(0,0);
+// console.log(winner) ;
